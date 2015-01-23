@@ -24,10 +24,10 @@ style/fonts/ClearSans-Regular-webfont.svg
 style/fonts/ClearSans-Regular-webfont.woff
 
 # Other resources
-meta/apple-touch-icon.png
+
 meta/icon_bitcoin.svg
 meta/icon_pp.svg
-meta/og_image.png
+
 
 # JavaScript
 js/animframe_polyfill.js
